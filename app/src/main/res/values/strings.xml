@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zumper App</string>
+
+    <string name="hold_to_see_more">Hold down to see more info.</string>
+
+    <string name="reviews">Reviews</string>
+</resources>
